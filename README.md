@@ -25,7 +25,7 @@ I live in the city of Chicago. I studied business education in college.
 </img>
 
 <h3>Books I have read</h3>
-<table border="1">
+<table border="2">
     <tr>
     <th>Various Genres</th>
     </tr>
