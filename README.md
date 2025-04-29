@@ -23,24 +23,29 @@ I live in the city of Chicago. I studied business education in college.
     <li>Arkanas</li>
 </ol>
 
-<img style="float:right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3LfExImQiDlQwQtOYREcfu-T6WkZ4_wXd79IQPU-AbIleK0:https://cdn.inspireuplift.com/uploads/images/seller_products/29524/1702656317_UnmaskingAI.jpg&s"alt="Book"> 
-</img>
+
 <h3>Books I have read</h3>
-<table border="1">
+<table border="2">
     <tr>
     <th colspan="2">Various Genres</th>
     </tr>
-    <tr>Unmasking AI
-        <td>By: Joy Buolamwini </td>
+
+    <tr>
+    <td>Unmasking AI</td>
+    <td>By: Joy Buolamwini </td>
     </tr>
-    <tr>Finding Me
-        <td>By: Viola Davis </td>
+
+    <tr>
+    <td>Finding Me</td>
+    <td>By: Viola Davis </td>
     </tr>
-    <tr>Fall of Giants
-        <td>By:Ken Follett </td>
+
+    <tr>Fall of Giants</td>
+     td>By:Ken Follett </td>
     </tr>
 </table>
-
+<img style="float:right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3LfExImQiDlQwQtOYREcfu-T6WkZ4_wXd79IQPU-AbIleK0:https://cdn.inspireuplift.com/uploads/images/seller_products/29524/1702656317_UnmaskingAI.jpg&s"alt="Book"> 
+</img>
 
 
 
