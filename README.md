@@ -34,17 +34,17 @@ I live in the city of Chicago. I studied business education in college.
 
     <tr>
     <td>Unmasking AI</td>
-    <td>By: Joy Buolamwini </td>
+    <td>Author: Joy Buolamwini </td>
     </tr>
 
     <tr>
     <td>Finding Me</td>
-    <td>By: Viola Davis </td>
+    <td>Author: Viola Davis </td>
     </tr>
 
     <tr>
     <td>Fall of Giants</td>
-    <td>By:Ken Follett </td>
+    <td>Author:Ken Follett </td>
     </tr>
 
 </table>
