@@ -23,7 +23,8 @@ I live in the city of Chicago. I studied business education in college.
     <li>Arkanas</li>
 </ol>
 
-
+<img style="float:right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3LfExImQiDlQwQtOYREcfu-T6WkZ4_wXd79IQPU-AbIleK0:https://cdn.inspireuplift.com/uploads/images/seller_products/29524/1702656317_UnmaskingAI.jpg&s"alt="Book"> 
+</img>
 <h3>Books I have read</h3>
 <table border="1">
     <tr>
@@ -39,8 +40,7 @@ I live in the city of Chicago. I studied business education in college.
         <td>By:Ken Follett </td>
     </tr>
 </table>
-<img style="float:right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3LfExImQiDlQwQtOYREcfu-T6WkZ4_wXd79IQPU-AbIleK0:https://cdn.inspireuplift.com/uploads/images/seller_products/29524/1702656317_UnmaskingAI.jpg&s"alt="Book"> 
-</img>
+
 
 
 
