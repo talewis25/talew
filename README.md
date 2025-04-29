@@ -13,7 +13,8 @@ I live in the city of Chicago. I studied business education in college.
     <li>Trying new restaurants</li>
     <li>Swimming</li>
 </ul>
-
+<img style="float:right;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibCwlsQznzKf4jYk-Tn469tiYLCb1BavQfF1Knz1Sb1fg15I:https://cdn.prod.website-files.com/5e93226606600f15bcd785e2/67b3a65bd3590aae7d6bcf6d_Is%2520Jamaica%2520Worth%2520Visiting.jpg&s" alt="Sandals Beach Jamacia"> 
+</img>
 <h3>Places I have travelled</h3>
 <ol>
     <li>Jamaica</li>
@@ -21,8 +22,7 @@ I live in the city of Chicago. I studied business education in college.
     <li>Las Vegas</li>
     <li>Arkanas</li>
 </ol>
-<img style="float:right;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibCwlsQznzKf4jYk-Tn469tiYLCb1BavQfF1Knz1Sb1fg15I:https://cdn.prod.website-files.com/5e93226606600f15bcd785e2/67b3a65bd3590aae7d6bcf6d_Is%2520Jamaica%2520Worth%2520Visiting.jpg&s" alt="Sandals Beach Jamacia"> 
-</img>
+
 
 <h3>Books I have read</h3>
 <table border="1">
